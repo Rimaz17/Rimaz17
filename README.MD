@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://rimaz17.github.io/cv/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-111111?style=for-the-badge&logo=google-chrome&logoColor=00C2FF" alt="Portfolio" /></a>
-  <a href="mailto:rimazsaththar17@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:rimaz.asm@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 </div>
@@ -140,8 +140,8 @@ Scalable e-commerce platform designed for performance and clean UX.
   <a href="https://www.linkedin.com/in/rimaz-saththar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rimaz_Saththar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rimazsaththar17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rimazsaththar17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:rimaz.asm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rimaz.asm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://rimaz17.github.io/cv/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-222222?style=for-the-badge&logo=google-chrome&logoColor=00D8FF" alt="Portfolio" />
