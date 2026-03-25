@@ -89,14 +89,17 @@ Scalable e-commerce platform designed for performance and clean UX.
 - Impact: End-to-end shopping flow with robust backend orchestration
 - Stack: Django, React, SQLite/PostgreSQL, AWS
 - GitHub: [View ShopSphere](https://github.com/rimaz17/ShopSphere)
+- Live: [Try ShopSphere](http://ecommerce-project-react-env.eba-kzpqz8sk.eu-north-1.elasticbeanstalk.com/)
 
 ---
 
 ## GitHub Pulse
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimaz17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimaz17&layout=compact&langs_count=8&count_private=true&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<p align="center"><sub>Top Languages reflects code volume in repositories, not total skill level.</sub></p>
 
 ---
 
