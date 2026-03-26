@@ -26,12 +26,12 @@
 
 ## Developer Profile
 
-- 🧠 Computer Science undergraduate at University of Westminster (via IIT)
-- ⚙️ Full-Stack Developer with a strong backend engineering edge
-- 🚀 Co-Founder and Tech Lead at QuickBrix, building fast and scalable products
-- 🧪 Elite Software QA tester (diamond-tier, top-ranked globally)
-- 🐞 Identified 500+ bugs across major platforms, including Facebook and Instagram
-- 🎯 I design systems that stay reliable under pressure and scale with confidence
+-  Computer Science undergraduate at University of Westminster (via IIT)
+-  Full-Stack Developer with a strong backend engineering edge
+-  Co-Founder and Tech Lead at QuickBrix, building fast and scalable products
+-  Elite Software QA tester (diamond-tier)
+-  Identified 500+ bugs across major platforms, including Facebook and Instagram
+-  I design systems that stay reliable under pressure and scale with confidence
 
 > "I don't just ship features. I engineer reliability, performance, and trust."
 
