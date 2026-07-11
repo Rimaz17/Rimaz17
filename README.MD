@@ -6,7 +6,7 @@
 
 # Rimaz Saththar
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=Hey%2C+I'm+Rimaz+Saththar;I+build+scalable+systems+%26+high-impact+software;Full-Stack+Developer+(Backend-focused);Co-Founder+%26+Tech+Lead+%40+QuickBrix" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=Hey%2C+I'm+Rimaz+Saththar;I+build+scalable+systems+%26+high-impact+software;Full-Stack+Developer;Co-Founder+%26+Tech+Lead+%40+QuickBrix" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/Backend_Engineer-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Engineer" />
