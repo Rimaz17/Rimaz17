@@ -81,7 +81,7 @@ A modern productivity and collaboration platform focused on speed and clarity.
 
 - Impact: Helps teams coordinate execution with less friction
 - Stack: React, FastAPI, PostgreSQL, Docker
-- GitHub: [View Clovio](https://github.com/rimaz17/Clovio)
+- GitHub: [View Clovio](https://github.com/SDGP-Clovio/clovio-platform)
 
 ### 🛍️ ShopSphere
 Scalable e-commerce platform designed for performance and clean UX.
